@@ -1,0 +1,30 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+WinFrom_ArcEngine_PointDistribution
+</name>
+</assembly>
+<members>
+<member name="M:WinFrom_ArcEngine_PointDistribution.Form1.CreateFeatureClass">
+	<summary>
+ 创建渲染图层
+ </summary>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:WinFrom_ArcEngine_PointDistribution.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:WinFrom_ArcEngine_PointDistribution.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:WinFrom_ArcEngine_PointDistribution.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>
